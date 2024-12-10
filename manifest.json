@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Simple Student Feedback (NCKU) Extension",
+    "version": "1.0",
+    "description": "A simple extension to automate student feedback (NCKU)",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "scripting",
+      "activeTab"
+    ]
+  }
+  
